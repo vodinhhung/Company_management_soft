@@ -1,3 +1,5 @@
+Company Management Software 1.0
+
 This is my first project in university I have done it with the help of my classmate.
 It's not quite too hard, but we have tried our best to fix all bugs and finished it before deadline.
 

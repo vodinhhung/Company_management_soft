@@ -1,7 +1,17 @@
-Company Management Software 1.0
+#Company Management App
 
-This is my first project in university I have done it with the help of my classmate.
-It's not quite too hard, but we have tried our best to fix all bugs and finished it before deadline.
+* This repository contains the source code for the project in the course IT3914 in HUST.
+* It is just a backbone of some later updated versions (unfortunately I can't public all)
 
-Thanks for reading this and warmly welcome any contructive comments form anybody!
-By the way, I'm Hung, student of Ha Noi University of Science and Technology, one of the best technology universities in Viet Nam.
+## About
+* The main purpose of the app is helping many manager to organise and manage all activities, 
+many sorts of information of each project and department in company.
+* About the technology, I use only Java for both front-end and back-end.
+
+##Cloning
+* If you are interested in make use of the source code, feel free to clone it to your local computer
+```$xslt
+    git clone https://github.com/vodinhhung/HUST_IT3804_Programming_project.git
+```
+
+*Thanks for reading!*
